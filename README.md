@@ -19,3 +19,4 @@ Puzzle                                                                          
 [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)                 | ⭐⭐
 [Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)              | ⭐⭐
 [Day 13: Distress Signal](https://adventofcode.com/2022/day/13)                      | ⭐⭐
+[Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14)                   | ⭐⭐
