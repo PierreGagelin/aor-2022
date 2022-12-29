@@ -6,3 +6,4 @@ Made for fun and to practice Rust.
 
 Puzzle                                                                               | Stars
 ------------------------------------------------------------------------------------ | -----
+[Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)                       | ⭐⭐
